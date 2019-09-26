@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "Awesometic Lab"
 title_separator          : "-"
-name                     : "Awesometic"
-description              : "Awesometic Laboratory for Personal Use"
+description              : ""
 url                      : "https://awesometic.github.io"
-baseurl                  : ""
+baseurl                  : "awesometic.github.io"
 repository               : "awesometic/awesometic.github.io"
+github_username          : "awesometic"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true
 words_per_minute         : 200
@@ -42,11 +42,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Awesometic"
+  name             : "Yang Deokgyu"
   avatar           : "/assets/images/logo.jpeg"
   bio              : "A programmer who wants to be awesome."
   location         : "South Korea"
-  email            : "awesometic.lab@gmail.com"
+  email            : "secugyu@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
