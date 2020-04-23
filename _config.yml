@@ -42,7 +42,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Deokgyu"
+  name             : "Deokgyu Yang"
   avatar           : "/assets/images/logo.jpeg"
   bio              : "A programmer who wants to be awesome."
   location         : "South Korea"
@@ -129,6 +129,7 @@ timezone: Asia/Seoul
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-admin
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -139,6 +140,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-admin
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
